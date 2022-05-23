@@ -1,0 +1,13 @@
+.button{
+    -fx-background-color:rgba(24, 24, 24, 0.75);
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2 2 2 0;
+}
+
+.button.active {
+    -fx-border-color: black black black rgb(33, 168, 60);
+    -fx-border-width: 2 2 2 5;
+
+}
